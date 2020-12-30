@@ -9,5 +9,5 @@ def reverse_each_word(string)
     reversed_word_arr << reversed_word
   end
   
-  reversed_word.join(" ")
+  reversed_word_arr.join(" ")
 end
